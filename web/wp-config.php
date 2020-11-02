@@ -39,8 +39,8 @@
     
 if(isset($_ENV['CLEARDB_DATABASE_URL'])) {
     $db = parse_url($_ENV['CLEARDB_DATABASE_URL']);
-    define(‘DB_NAME’, trim($db['cmv'],`/`));
-    define(‘DB_USER’, $db['cmv']);
+    define(‘DB_NAME’, trim('cmv',`/`));
+    define(‘DB_USER’,'cmv');
     define(‘DB_PASSWORD’, 'paeLei4e');
     define(‘DB_HOST’, $db['localhost']);
     define(‘DB_CHARSET’, 'utf8mb4');
