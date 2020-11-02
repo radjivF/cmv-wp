@@ -1,1 +1,0 @@
-$('.bwpb-colorpicker').wpColorPickerAlpha();
