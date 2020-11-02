@@ -1,0 +1,4676 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Midnight\n"
+"POT-Creation-Date: 2015-12-18 13:45+0200\n"
+"PO-Revision-Date: 2015-12-18 13:46+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_EN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "THIS IS NOT THE WEB PAGE YOU ARE LOOKING FOR"
+msgstr ""
+
+#: 404.php:21
+msgid "Please try one of the following pages"
+msgstr ""
+
+#: 404.php:24 templates/page-title-cart.php:24
+msgid "Home page"
+msgstr ""
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-search.php:16
+msgid "Search.."
+msgstr ""
+
+#: bw/core/Bw.php:110
+msgid "Previous"
+msgstr ""
+
+#: bw/core/Bw.php:116
+msgid "Next"
+msgstr ""
+
+#: bw/core/Bw.php:181
+msgid "Post navigation"
+msgstr ""
+
+#: bw/core/Bw.php:184
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: bw/core/Bw.php:185
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: bw/core/Bw.php:279 bw/core/Bw.php:285
+msgid "Home"
+msgstr ""
+
+#: bw/core/Bw.php:279 bw/core/Bw_woo.php:203
+msgid "The Shop"
+msgstr ""
+
+#: bw/core/Bw.php:285
+msgid "Blog"
+msgstr ""
+
+#: bw/core/Bw.php:553
+msgid "Search Results for: "
+msgstr ""
+
+#: bw/core/Bw.php:555
+msgid "Tagged as: "
+msgstr ""
+
+#: bw/core/Bw.php:557
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: bw/core/Bw.php:559
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: bw/core/Bw.php:561
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: bw/core/Bw.php:563
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: bw/core/Bw.php:565 bw/core/Bw_setup.php:151
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: bw/core/Bw.php:568
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: bw/core/Bw.php:587
+msgid "Load more"
+msgstr ""
+
+#: bw/core/Bw_admin_ajax.php:129 bw/core/Bw_page_builder.php:173
+#: bw/core/Bw_page_builder.php:285 bw/core/Bw_page_builder.php:424
+#: bw/core/Bw_page_builder.php:629 bw/core/Bw_page_builder.php:816
+#: bw/core/Bw_page_builder.php:968 bw/core/Bw_page_builder.php:1058
+#: bw/core/Bw_page_builder.php:1100 bw/core/Bw_page_builder.php:1262
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4458
+#: bw/lib/option-tree/includes/ot-meta-box-api.php:231
+#: bw/lib/option-tree/includes/ot-settings-api.php:610
+#: bw/widgets/bw_widgets_latest_reviews.php:84
+msgid "Title"
+msgstr ""
+
+#: bw/core/Bw_admin_ajax.php:134
+msgid "Caption"
+msgstr ""
+
+#: bw/core/Bw_admin_ajax.php:139
+msgid "Add video"
+msgstr ""
+
+#: bw/core/Bw_admin_ajax.php:148
+msgid "Video url"
+msgstr ""
+
+#: bw/core/Bw_admin_ajax.php:158
+msgid "Autoplay video"
+msgstr ""
+
+#: bw/core/Bw_megamenu.php:60
+msgid "Add menu location"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker.php:161
+msgid "No featured products!"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:49
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:53
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:94
+msgid "Edit Menu Item"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:103
+msgid "URL"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:110
+msgid "Navigation Label"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:116
+msgid "Title Attribute"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:123
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:128
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:134
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:140
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3303
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3354
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:43
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:428
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:478
+msgid "Description"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:142
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:151
+#: bw/core/Bw_megamenu_walker_edit.php:166
+msgid "Megamenu Layout"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:185
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:198
+msgid "Remove"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:199 comments.php:87
+msgid "Cancel"
+msgstr ""
+
+#: bw/core/Bw_meta.php:157
+msgid "ACF Export: No field groups were selected"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:50
+msgid "Post source"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:56 bw/core/Bw_page_builder.php:459
+#: bw/core/Bw_page_builder.php:538
+msgid "Category"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:58 bw/core/Bw_page_builder.php:461
+#: bw/core/Bw_page_builder.php:540
+msgid ""
+"Hold down Command key (or CTRL on Windows) to select multiple categories."
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:88
+msgid "Midnight slider"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:92 bw/core/Bw_page_builder.php:146
+#: bw/core/Bw_page_builder.php:280 bw/core/Bw_page_builder.php:395
+#: bw/core/Bw_page_builder.php:420 bw/core/Bw_page_builder.php:455
+#: bw/core/Bw_page_builder.php:534 bw/core/Bw_page_builder.php:625
+#: bw/core/Bw_page_builder.php:729 bw/core/Bw_page_builder.php:785
+#: bw/core/Bw_page_builder.php:854 bw/core/Bw_page_builder.php:883
+#: bw/core/Bw_page_builder.php:936 bw/core/Bw_page_builder.php:1034
+#: bw/core/Bw_page_builder.php:1054 bw/core/Bw_page_builder.php:1087
+#: bw/core/Bw_page_builder.php:1163 bw/core/Bw_page_builder.php:1188
+#: bw/core/Bw_page_builder.php:1217 bw/core/Bw_page_builder.php:1258
+msgid "Theme"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:142
+msgid "Midnight slide"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:150 bw/core/Bw_page_builder.php:940
+msgid "Background image"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:155
+msgid "Background position"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:179 bw/core/Bw_page_builder.php:291
+#: bw/core/Bw_page_builder.php:634 bw/core/Bw_page_builder.php:973
+#: bw/core/Bw_page_builder.php:1106 bw/core/Bw_page_builder.php:1108
+msgid "Sub title"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:185 bw/core/Bw_page_builder.php:297
+#: bw/core/Bw_page_builder.php:978
+msgid "Summary"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:190 bw/core/Bw_page_builder.php:302
+msgid "Summary letter spacing"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:202 bw/core/Bw_page_builder.php:314
+#: bw/core/Bw_page_builder.php:639
+msgid "Background text"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:207 bw/core/Bw_page_builder.php:319
+#: bw/core/Bw_page_builder.php:644
+msgid "Background text size"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:219 bw/core/Bw_page_builder.php:331
+msgid "Alt text"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:223 bw/core/Bw_page_builder.php:335
+#: bw/core/Bw_page_builder.php:655 bw/core/Bw_page_builder.php:951
+msgid "Text position"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:247 bw/core/Bw_page_builder.php:359
+#: bw/core/Bw_page_builder.php:673
+msgid "Shop Now"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:276
+msgid "Midnight text animation"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:391
+msgid "Midnight Icon with Text Box"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:416
+msgid "Midnight Icon with Text"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:429
+msgid "summary"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:434
+msgid "Icon"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:451
+msgid "Featured products"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:468 bw/core/Bw_page_builder.php:547
+#: bw/core/Bw_page_builder.php:1468 bw/core/Bw_page_builder.php:1543
+msgid "Featured"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:475 bw/core/Bw_page_builder.php:554
+#: bw/core/Bw_page_builder.php:1470 bw/core/Bw_page_builder.php:1545
+msgid "On sale"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:481 bw/core/Bw_page_builder.php:560
+#: bw/core/Bw_page_builder.php:1469 bw/core/Bw_page_builder.php:1544
+msgid "Best sellers"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:487 bw/core/Bw_page_builder.php:566
+#: bw/core/Bw_page_builder.php:1472 bw/core/Bw_page_builder.php:1547
+#: woocommerce/loop/sale-flash.php:23
+#: woocommerce/single-product/sale-flash.php:23
+msgid "New"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:493 bw/core/Bw_page_builder.php:572
+msgid "New with badge"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:498 bw/core/Bw_page_builder.php:589
+#: bw/core/Bw_page_builder.php:1192
+msgid "Number of products"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:509
+msgid "Items per row"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:530
+msgid "Featured products slider"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:577
+msgid "Enable autoplay"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:583
+msgid "Enable navigation"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:600
+msgid "Items per slide"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:621
+msgid "Midnight Deal"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:725
+msgid "Product picks"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:733
+msgid "Element height"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:781
+msgid "Product picks item"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:789
+msgid "Top position"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:800
+msgid "Left position"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:811
+msgid "Price"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:821
+msgid "Price before"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:826
+msgid "Enable link"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:850
+msgid "Midnight latest posts"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:858
+msgid "Number of posts"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:879
+msgid "Collection blocks"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:887
+msgid "Collection layout"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:932
+msgid "Collections block item"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:945
+msgid "Link to category"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:983
+msgid "Font size"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:994
+msgid "Enable border"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1000
+msgid "Use white text color"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1006
+msgid "Hide text before hover"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1012
+msgid "Visible over color"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1030
+msgid "Midnight FAQ"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1050
+msgid "Midnight FAQ item"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1060
+msgid "Some title"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1065 bw/core/Bw_page_builder.php:1238
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:369
+msgid "Content"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1083
+msgid "Lookbook section"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1096
+msgid "Section alignment style"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1102
+msgid "The title"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1112
+msgid "Alt"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1114
+msgid "01"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1118
+msgid "Main image"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1124
+msgid "Sub image"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1135
+msgid "Button label"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1137
+msgid "Button"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1142
+msgid "Location"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1159
+msgid "Shop archive"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1167
+msgid "Select categories"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1184
+msgid "Product thumbs"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1213
+msgid "Customers say"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1221
+#: bw/lib/option-tree/includes/ot-functions-admin.php:861
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3281
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3342
+msgid "Image"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1227
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3418 comments.php:77
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1232 bw/core/Bw_page_builder.php:1278
+msgid "Sub text"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1254
+msgid "Custom product"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1267
+msgid "Title font size"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1283
+msgid "Upload product image"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1289
+msgid "Link to product"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1290
+msgid "Make this item purchasable by linking it to a real product."
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1471 bw/core/Bw_page_builder.php:1546
+msgid "New arrival"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1650 bw/core/Bw_page_builder.php:1699
+msgid "Days"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1651 bw/core/Bw_page_builder.php:1700
+msgid "Hours"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1652 bw/core/Bw_page_builder.php:1701
+msgid "Mins"
+msgstr ""
+
+#: bw/core/Bw_page_builder.php:1653 bw/core/Bw_page_builder.php:1702
+msgid "Secs"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:114
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:115
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:116
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:117
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:118
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:119
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:120
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:121
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:122
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:123
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:124
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:125
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:126
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:127
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:128
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:129
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3035
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:130
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: bw/core/Bw_setup.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: bw/core/Bw_setup.php:58
+msgid "Top Menu Secondary"
+msgstr ""
+
+#: bw/core/Bw_setup.php:61
+msgid "My Account"
+msgstr ""
+
+#: bw/core/Bw_setup.php:64
+msgid "Mobile Menu"
+msgstr ""
+
+#: bw/core/Bw_setup.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:32
+msgid "Signing in to Facebook"
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:33
+msgid "Could not sign into to Facebook!"
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:34
+msgid "Signing in to Google!"
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:35
+msgid "Could not sign into to Google!"
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:69
+msgid "No articles were found.."
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:163 bw/core/Bw_theme_ajax.php:214
+msgid "You are already signed in, redirecting..."
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:198 bw/core/Bw_theme_ajax.php:249
+msgid "Something went wrong!"
+msgstr ""
+
+#: bw/core/Bw_theme_ajax.php:205 bw/core/Bw_theme_ajax.php:256
+msgid "Sign in successful, redirecting..."
+msgstr ""
+
+#: bw/core/Bw_widgets.php:27
+msgid "Sidebar"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:39
+msgid "Footer column 1"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:51
+msgid "Footer column 2"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:63
+msgid "Footer column 3"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:75
+msgid "Footer column 4"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:89
+msgid "E-commerce sidebar"
+msgstr ""
+
+#: bw/core/Bw_woo.php:68
+msgid "Quick look"
+msgstr ""
+
+#: bw/core/Bw_woo.php:74 woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: bw/core/Bw_woo.php:76
+msgid "out of 5"
+msgstr ""
+
+#: bw/core/Bw_woo.php:178
+msgid ""
+"We are sorry, but this feature is available only if cookies are enabled on "
+"your browser."
+msgstr ""
+
+#: bw/core/Bw_woo.php:179
+msgid "Product correctly added to cart"
+msgstr ""
+
+#: bw/core/Bw_woo.php:193
+msgid "Wishlist"
+msgstr ""
+
+#: bw/core/Bw_woo.php:197
+msgid "View Wishlist"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:23
+msgid "Demo Meta Box"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:30
+msgid "Conditions"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:35
+msgid "Show Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:38
+#, php-format
+msgid "Shows the Gallery when set to %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:45
+msgid "Congratulations, you created a gallery!"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:50
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:273
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2456
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5504
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:168
+msgid "Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:53
+#, php-format
+msgid "This is a Gallery option type. It displays when %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:57
+msgid "More Options"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:62
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:679
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2480
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:293
+msgid "Text"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:65
+msgid "This is a demo Text field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:68
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:694
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2481
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:296
+msgid "Textarea"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:71
+msgid "This is a demo Textarea field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:33
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:42
+#: bw/lib/option-tree/includes/ot-functions-admin.php:231
+msgid "Option Types"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:34
+msgid "Help content goes here!"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:37
+msgid "Sidebar content goes here!"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:48
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2442
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:110
+msgid "Background"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:49
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:111
+#, php-format
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:49
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:755
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4259
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:111
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:378
+msgid "and"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:63
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2443
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:113
+msgid "Border"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:64
+msgid ""
+"The Border option type is used to set width, unit, style, and color values."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:78
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2444
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:116
+msgid "Box Shadow"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:79
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:117
+#, php-format
+msgid ""
+"The Box Shadow option type is used to set %s, %s, %s, %s, %s, and %s values."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:93
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2445
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:119
+msgid "Category Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:94
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:120
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:108
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2446
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:122
+msgid "Category Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:109
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:123
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:123
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2447
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:125
+msgid "Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:124
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:126
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:138
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:510
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:562
+msgid "No"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:143
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:505
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:557
+msgid "Yes"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:150
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2448
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:128
+msgid "Colorpicker"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:151
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:129
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:165
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:166
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2449
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:131
+msgid "Colorpicker Opacity"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:167
+#, php-format
+msgid ""
+"The Colorpicker Opacity option type saves an rgba color value for use in "
+"CSS. To add opacity to other colorpickers add the %s class to the %s array."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:181
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2450
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:134
+msgid "CSS"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:182
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:135
+#, php-format
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:182
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:137
+#, php-format
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means "
+"this option will automatically insert the value of %1$s into the %2$s when "
+"the Theme Options are saved."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:198
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2451
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:153
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:199
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:154
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:213
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2452
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:156
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:214
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:157
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:228
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2453
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:159
+msgid "Date Picker"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:229
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:160
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus "
+"is given to the input field. The returned value is a date formatted string."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:243
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2454
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:162
+msgid "Date Time Picker"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:244
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:163
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field "
+"which displays a calendar pop-up that allow the user to pick any date and "
+"time when focus is given to the input field. The returned value is a date "
+"and time formatted string."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:258
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2455
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:165
+msgid "Dimension"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:259
+msgid "The Dimension option type is used to set width and height values."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:274
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:169
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:288
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:289
+#, php-format
+msgid ""
+"The Gallery option type can also be saved as a shortcode by adding %s to the "
+"class attribute. Using the Gallery option type in this manner will result in "
+"a better user experience as you're able to save the link, column, and order "
+"settings."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:303
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2457
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:171
+msgid "Google Fonts"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:304
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:172
+#, php-format
+msgid ""
+"The Google Fonts option type will dynamically enqueue any number of Google "
+"Web Fonts into the document %1$s. As well, once the option has been saved "
+"each font family will automatically be inserted into the %2$s array for the "
+"Typography option type. You can further modify the font stack by using the "
+"%3$s filter, which is passed the %4$s, %5$s, and %6$s parameters. The %6$s "
+"parameter is being passed from %7$s, so it will be the ID of a Typography "
+"option type. This will allow you to add additional web safe fonts to "
+"individual font families on an as-need basis."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:324
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2458
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:174
+msgid "JavaScript"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:325
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:175
+#, php-format
+msgid ""
+"The JavaScript option type is a textarea that uses the %s code editor to "
+"highlight your JavaScript and display errors as you type."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:339
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2459
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:177
+msgid "Link Color"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:340
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:178
+msgid "The Link Color option type is used to set all link color states."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:354
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2460
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:180
+msgid "List Item"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:355
+msgid ""
+"The List Item option type allows for a great deal of customization. You can "
+"add settings to the List Item and those settings will be displayed to the "
+"user when they add a new List Item. Typical use is for creating sliding "
+"content or blocks of code for custom layouts."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:385
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2461
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:183
+msgid "Measurement"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:386
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:184
+#, php-format
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:400
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2462
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:214
+msgid "Numeric Slider"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:401
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:215
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:415
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2463
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:217
+msgid "On/Off"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:416
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:218
+#, php-format
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:430
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2464
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:220
+msgid "Page Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:431
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:221
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the "
+"user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:445
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2465
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:223
+msgid "Page Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:446
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:224
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:460
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2466
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:226
+msgid "Post Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:461
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:227
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the "
+"user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:475
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2467
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:229
+msgid "Post Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:476
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:230
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:490
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2468
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:232
+msgid "Radio"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:491
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:233
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:515
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:567
+msgid "Maybe"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:522
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2469
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:235
+msgid "Radio Image"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:523
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:236
+#, php-format
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:537
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2470
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:262
+msgid "Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:538
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:263
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:552
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1489
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1532
+msgid "-- Choose One --"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:574
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2471
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:265
+msgid "Sidebar Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:575
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:266
+#, php-format
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, %s, and %s we can be selective about which sidebars are available "
+"on a specific content area."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:575
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:267
+#, php-format
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:589
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2473
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:272
+msgid "Social Links"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:590
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:273
+#, php-format
+msgid ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this "
+"option type easy. You can set the %s filter to %s and turn off loading "
+"default values. Use the %s filter to change the default values that are "
+"loaded. To filter the settings array use the %s filter."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:604
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2474
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:275
+msgid "Spacing"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:605
+msgid ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:619
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2476
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:281
+msgid "Tag Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:620
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:282
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:634
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2477
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:284
+msgid "Tag Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:635
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:285
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:649
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2478
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:287
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:650
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:288
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:664
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2479
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:290
+msgid "Taxonomy Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:665
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:291
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:680
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:294
+msgid ""
+"The Text option type is used to save string values. For example, any "
+"optional or required text that is of reasonably short character length."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:695
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:297
+#, php-format
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme and has a WYSIWYG editor that can be filtered to change "
+"the how it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:709
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2482
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:355
+msgid "Textarea Simple"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:710
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:356
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:724
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2483
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:371
+msgid "Textblock"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:725
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:372
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:739
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2484
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:374
+msgid "Textblock Titled"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:740
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:375
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text "
+"block. You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:754
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2485
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:377
+msgid "Typography"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:755
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:378
+#, php-format
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:769
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2486
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:397
+msgid "Upload"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:770
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:398
+#, php-format
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:770
+#: bw/lib/option-tree/includes/ot-functions-admin.php:846
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:398
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:170
+#: bw/lib/option-tree/ot-loader.php:787
+msgid "Send to OptionTree"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:784
+msgid "Upload Attachment ID"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:785
+#, php-format
+msgid ""
+"The Upload option type can also be saved as an attachment ID by adding %s to "
+"the class attribute."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:84
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:101
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:130
+msgid "OptionTree Cleanup"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:101
+#, php-format
+msgid ""
+"OptionTree has outdated data that should be removed. Please go to %s for "
+"more information."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:136
+msgid "Multiple Media Posts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:138
+#, php-format
+msgid ""
+"There are currently %s OptionTree media posts in your database. At some "
+"point in the past, a version of OptionTree added multiple %s media post "
+"objects cluttering up your %s table. There is no associated risk or harm "
+"that these posts have caused other than to add size to your overall "
+"database. Thankfully, there is a way to remove all these orphaned media "
+"posts and get your database cleaned up."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:140
+#, php-format
+msgid ""
+"By clicking the button below, OptionTree will delete %s records and "
+"consolidate them into one single OptionTree media post for uploading "
+"attachments to. Additionally, the attachments will have their parent ID "
+"updated to the correct media post."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:142
+msgid ""
+"This could take a while to fully process depending on how many records you "
+"have in your database, so please be patient and wait for the script to "
+"finish."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:144
+#, php-format
+msgid ""
+"%s Your server is running in safe mode. Which means this page will "
+"automatically reload after deleting %s posts, you can filter this number "
+"using %s if your server is having trouble processing that many at one time."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:146
+msgid "Consolidate Posts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:174
+msgid "Reloading..."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:210
+msgid "Clean up script has completed, the page will now reload..."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:230
+msgid "Outdated Table"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:232
+#, php-format
+msgid ""
+"If you have upgraded from an old 1.x version of OptionTree at some point, "
+"you have an extra %s table in your database that can be removed. It's not "
+"hurting anything, but does not need to be there. If you want to remove it. "
+"Click the button below."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:234
+msgid "Drop Table"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:238
+#, php-format
+msgid "Deleting the outdated and unused %s table..."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:244
+#, php-format
+msgid "The %s table has been successfully deleted. The page will now reload..."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-cleanup-api.php:256
+#, php-format
+msgid "Something went wrong. The %s table was not deleted."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:50
+#: bw/lib/option-tree/includes/ot-functions-admin.php:51
+#: bw/lib/option-tree/includes/ot-functions-admin.php:169
+#: bw/lib/option-tree/includes/ot-functions-admin.php:193
+#: bw/lib/option-tree/includes/ot-functions.php:388
+msgid "Theme Options"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:56
+#: bw/lib/option-tree/includes/ot-functions-admin.php:126
+#: bw/lib/option-tree/includes/ot-functions-admin.php:220
+msgid "Theme Options updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:57
+#: bw/lib/option-tree/includes/ot-functions-admin.php:127
+#: bw/lib/option-tree/includes/ot-functions-admin.php:221
+msgid "Theme Options reset."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:58
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:94
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:97
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:109
+#: bw/lib/option-tree/includes/ot-functions-admin.php:110
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:821
+msgid "OptionTree"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:120
+#: bw/lib/option-tree/includes/ot-functions-admin.php:121
+#: bw/lib/option-tree/includes/ot-functions-admin.php:163
+#: bw/lib/option-tree/includes/ot-functions-admin.php:187
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:49
+msgid "Settings"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:128
+#: bw/lib/option-tree/includes/ot-functions-admin.php:222
+msgid "Save Settings"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:133
+msgid "Theme Options UI"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:137
+msgid "Import"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:141
+msgid "Export"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:145
+#: bw/lib/option-tree/includes/ot-functions-admin.php:175
+#: bw/lib/option-tree/includes/ot-functions-admin.php:199
+msgid "Layouts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:151
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:157
+msgid "Settings XML"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:181
+msgid "Settings PHP File"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:205
+msgid "Layout Management"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:214
+#: bw/lib/option-tree/includes/ot-functions-admin.php:215
+msgid "Documentation"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:227
+msgid "Creating Options"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:235
+msgid "Function References"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:239
+#: bw/lib/option-tree/includes/ot-functions-admin.php:281
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:366
+msgid "Theme Mode"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:243
+#: bw/lib/option-tree/includes/ot-functions-admin.php:287
+msgid "Meta Boxes"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:247
+msgid "Code Examples"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:251
+msgid "Layouts Overview"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:257
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:263
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:269
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:275
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:293
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:299
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:502
+#: bw/lib/option-tree/includes/ot-functions-admin.php:604
+#: bw/lib/option-tree/includes/ot-functions-admin.php:673
+#, php-format
+msgid "The %s input field for %s only allows numeric values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:563
+#, php-format
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:847
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:512
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:3465
+msgid "Remove Media"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:848
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:849
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:850
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:851
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:852
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:853
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1414
+msgid "Delete Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:854
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1415
+msgid "Edit Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:855
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1422
+msgid "Create Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:856
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:857
+msgid "Today"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:858
+msgid "Now"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:859
+msgid "Close"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:860
+msgid "Featured Image"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:929
+msgid "Option Tree"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:1067
+msgid "General"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:1073
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:1074
+msgid "Description for the sample text field."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2342
+msgid "Settings updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2346
+msgid "Settings could not be saved."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2354
+msgid "Settings Imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2358
+msgid "Settings could not be imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2365
+msgid "Data Imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2369
+msgid "Data could not be imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2377
+msgid "Layouts Imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2381
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2389
+msgid "Layouts Updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2393
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2397
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2403
+msgid "Layout activated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2472
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:269
+msgid "Slider"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2475
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:278
+msgid "Tab"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2488
+msgid "Bw import button"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2489
+msgid "Bw select font"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2490
+msgid "Bw text content"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2491
+msgid "Bw on/off button"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3226
+msgid "Left Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3231
+msgid "Right Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3236
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3241
+msgid "Dual Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3246
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3251
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3292
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3348
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5544
+msgid "Link"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3419
+msgid "Enter the name of the social website."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3427
+msgid "Enter the text shown in the title attribute of the link."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3433
+#, php-format
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3786
+#, php-format
+msgid "Unable to write to file %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4056
+msgid "edit"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4057
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4133
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4134
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4296
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4297
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4362
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4363
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4490
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4491
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4643
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4644
+msgid "Edit"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4059
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4060
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4136
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4137
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4299
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4300
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4365
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4366
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4424
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4425
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4493
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4494
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4646
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4647
+msgid "Delete"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4066
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4074
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4082
+msgid "<strong>Icon Class</strong>: Font Awesome icon class."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4143
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4151
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4380
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4159
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4170
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4178
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4183
+msgid "Add Choice"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4189
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4194
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4200
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4208
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4216
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4224
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4232
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4240
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4248
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4256
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4260
+msgid "or"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4306
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4316
+msgid "Value"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4326
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4372
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4388
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4419
+msgid "Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4421
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4422
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "Activate"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4798
+msgid "New Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5553
+msgid "Link URL"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5560
+msgid "Link Title"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5590
+msgid "Quote"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5599
+msgid "Source Name (ex. author, singer, actor)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5606
+msgid "Source URL"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5613
+msgid "Source Title (ex. book, song, movie)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5620
+msgid "Source Date"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5650
+msgid "Video"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5659
+#, php-format
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+"built-in %2$s shortcode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5659
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5698
+msgid "Wordpress Codex"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5689
+msgid "Audio"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:5698
+#, php-format
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:32
+msgid "ID"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:35
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2444
+msgid "Type"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:73
+msgid "CSS Class"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:76
+msgid "Condition"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:77
+#, php-format
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form "
+"of %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:79
+msgid "Operator"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:80
+#, php-format
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:114
+#, php-format
+msgid ""
+"The Border option type is used to set width, unit, style, and color values. "
+"The text input excepts a numerical value and the unit select lets you choose "
+"the unit of measurement to add to that value. Currently the default units "
+"are %s, %s, %s, and %s. However, you can change them with the %s filter. The "
+"style select lets you choose the border style. The default styles are %s, "
+"%s, %s, %s, %s, %s, %s, and %s. However, you can change them with the %s "
+"filter. The colorpicker saves a hexadecimal color code."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:132
+#, php-format
+msgid ""
+"The Colorpicker Opacity option type saves a hexadecimal color code with an "
+"opacity value from %s to %s in increments of %s. Though the value is saved "
+"as hexadecimal, if used within the CSS option type the color and opacity "
+"values will be converted into a valid RGBA CSS value."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:139
+msgid "Input"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:145
+msgid "Output"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:166
+#, php-format
+msgid ""
+"The Dimension option type is used to set width and height values. The text "
+"inputs except numerical values and the select lets you choose the unit of "
+"measurement to add to that value. Currently the default units are %s, %s, "
+"%s, and %s. However, you can change them with the %s filter."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:181
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:186
+#, php-format
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:199
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:238
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:270
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:276
+#, php-format
+msgid ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left. The text inputs except "
+"numerical values and the select lets you choose the unit of measurement to "
+"add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:279
+msgid ""
+"The Tab option type will break a section or metabox into tabbed content."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:299
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:301
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:314
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:327
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:340
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:358
+#, php-format
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. "
+"The default is %s which means it does not wraps line breaks with an HTML %s "
+"tag. Added to %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:380
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:430
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:432
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:482
+msgid "Usage"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:436
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:486
+msgid "Parameters"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:440
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:444
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:490
+msgid "string"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:440
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:490
+msgid "required"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:440
+msgid "Enter the options unique identifier."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:440
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:490
+msgid "Default:"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:440
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:444
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:490
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:494
+msgid "None"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:444
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:494
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:498
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:502
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:506
+msgid "optional"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:444
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:444
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:494
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:498
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:502
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:506
+msgid "Default"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:474
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:476
+msgid "Use"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:476
+msgid "instead"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:480
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:490
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:494
+msgid "array"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:494
+msgid "Used to cut down on database queries in template files."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:498
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:502
+msgid "boolean"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:498
+msgid "Echo the output."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:502
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:506
+msgid "integer"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:506
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:534
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:536
+msgid "String Examples"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:538
+msgid "Returns the value of <code>test_input</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:544
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:550
+msgid "Array Examples"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:552
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:572
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:598
+msgid "This example displays a very basic slider loop."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:643
+msgid "It's Super Simple"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:645
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:647
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:649
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:651
+msgid "For Developers"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:653
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:682
+msgid "Creating a Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:655
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:662
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:668
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:656
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:657
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:686
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:660
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:689
+msgid "Activating a Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:663
+msgid "Click on the activate layout button in the actions list."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:666
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:695
+msgid "Deleting a Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:669
+msgid "Click on the delete layout button in the actions list."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:672
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:700
+msgid "Edit Layout Data"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:674
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:684
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:691
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:675
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:703
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:676
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:704
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:677
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:680
+msgid "End-Users Mode"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:685
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:692
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:697
+msgid "End-Users mode does not allow deleting layouts."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:702
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:733
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:815
+msgid "How-to-guide"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:735
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:737
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:739
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:741
+msgid "Create and include your custom meta boxes file."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:743
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:744
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:745
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:845
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:755
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:817
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:819
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:821
+#, php-format
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:822
+#, php-format
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:823
+#, php-format
+msgid "Add the following code to the beginning of your %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:837
+#, php-format
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point "
+"for developing themes with Theme Mode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:839
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:841
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:843
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:844
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:855
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:858
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:132
+msgid "Import demo content"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:134
+msgid ""
+"Importing demo content. Please do not close or refresh the page! This could "
+"take several minutes, depending on your internet connection."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:135
+msgid "Demo import finished."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:200
+msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:301
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:389
+msgid "background-repeat"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:407
+msgid "background-attachment"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:426
+msgid "background-position"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:479
+msgid "background-size"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:493
+msgid "background-image"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:496
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:3449
+msgid "Add Media"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:571
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1300
+msgid "width"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:582
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1320
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1805
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2753
+msgid "unit"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:601
+msgid "style"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:694
+msgid "offset-x"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:703
+msgid "offset-y"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:712
+msgid "blur-radius"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:721
+msgid "spread-radius"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:793
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:847
+msgid "No Categories Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:842
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1125
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2074
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2185
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2893
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:3008
+msgid "Choose One"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1073
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1131
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2136
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2191
+msgid "No Posts Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1309
+msgid "height"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1487
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1530
+msgid "Remove Google Font"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1553
+msgid "Add Google Font"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1639
+msgctxt "color picker"
+msgid "Standard"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1640
+msgctxt "color picker"
+msgid "Hover"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1641
+msgctxt "color picker"
+msgid "Active"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1642
+msgctxt "color picker"
+msgid "Visited"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1643
+msgctxt "color picker"
+msgid "Focus"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1752
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2493
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2658
+msgid "Add New"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1755
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2496
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2661
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1925
+msgid "On"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1947
+msgid "Off"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2025
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2080
+msgid "No Pages Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2416
+msgid "Choose Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2421
+msgid "No Sidebars"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2529
+msgid "Facebook"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2534
+msgid "Twitter"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2539
+msgid "Google+"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2544
+msgid "LinkedIn"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2549
+msgid "Pinterest"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2554
+msgid "Youtube"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2559
+msgid "Dribbble"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2564
+msgid "Github"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2569
+msgid "Forrst"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2574
+msgid "Digg"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2579
+msgid "Delicious"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2584
+msgid "Tumblr"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2589
+msgid "Skype"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2594
+msgid "SoundCloud"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2599
+msgid "Vimeo"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2604
+msgid "Flickr"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2609
+msgid "VK.com"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2715
+msgid "top"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2724
+msgid "right"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2733
+msgid "bottom"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2742
+msgid "left"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2844
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2898
+msgid "No Tags Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2956
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:3013
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-settings-api.php:364
+msgid "Reset Options"
+msgstr ""
+
+#: bw/lib/option-tree/ot-loader.php:21
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2838
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:834
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3444
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:941
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:941
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:944
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:944
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1122
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2834
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1887
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2173
+msgid "Required"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2176
+msgid "Recommended"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2192
+msgid "WordPress Repository"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2195
+msgid "External Source"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2198
+msgid "Pre-Packaged"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2215
+msgid "Not Installed"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2219
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2221
+msgid "Active"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2227
+msgid "Required Update not Available"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2230
+msgid "Requires Update"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2233
+msgid "Update recommended"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2241
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2286
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2377
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2385
+msgid "Installed version:"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2393
+msgid "Minimum required version:"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2405
+msgid "Available version:"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2428
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2442
+msgid "Plugin"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "Source"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2448
+msgid "Version"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2449
+msgid "Status"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2497
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2501
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2506
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2576
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2609
+msgid "Install"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2615
+msgid "Update"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2649
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2651
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2687
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2689
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2794
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2820
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3034
+msgid "Plugin activation failed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3371
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3376
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+msgid "Show Details"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3376
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+msgid "Hide Details"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3377
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3383
+msgid "All installations have been completed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:3384
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bw/lib/wordpress-importer/parsers.php:42
+#: bw/lib/wordpress-importer/parsers.php:80
+#: bw/lib/wordpress-importer/parsers.php:88
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: bw/lib/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: bw/lib/wordpress-importer/parsers.php:92
+#: bw/lib/wordpress-importer/parsers.php:97
+#: bw/lib/wordpress-importer/parsers.php:294
+#: bw/lib/wordpress-importer/parsers.php:483
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:134
+#: bw/lib/wordpress-importer/wordpress-importer.php:143
+#: bw/lib/wordpress-importer/wordpress-importer.php:194
+#: bw/lib/wordpress-importer/wordpress-importer.php:198
+#: bw/lib/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:286
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:511
+#: bw/lib/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1130
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: bw/widgets/bw_widgets_latest_reviews.php:9
+msgid "BW Latest Reviews"
+msgstr ""
+
+#: bw/widgets/bw_widgets_latest_reviews.php:10
+msgid "Display the latest posts with reviews"
+msgstr ""
+
+#: bw/widgets/bw_widgets_latest_reviews.php:79
+msgid "Latest Reviews"
+msgstr ""
+
+#: bw/widgets/bw_widgets_latest_reviews.php:88
+msgid "Number of reviews to show:"
+msgstr ""
+
+#: bw/widgets/bw_widgets_popular_posts.php:9
+msgid "BW Popular Posts"
+msgstr ""
+
+#: bw/widgets/bw_widgets_popular_posts.php:10
+msgid "BW Popular posts"
+msgstr ""
+
+#: bw/widgets/bw_widgets_popular_posts.php:75
+#: bw/widgets/bw_widgets_recent_posts_slider.php:110
+msgid "Title:"
+msgstr ""
+
+#: bw/widgets/bw_widgets_popular_posts.php:80
+#: bw/widgets/bw_widgets_recent_posts_slider.php:115
+msgid "Number of posts (between 1 and 10):"
+msgstr ""
+
+#: bw/widgets/bw_widgets_popular_posts.php:85
+msgid "Categories (leave empty for all categories):"
+msgstr ""
+
+#: bw/widgets/bw_widgets_recent_posts.php:16
+msgid "Recent Posts"
+msgstr ""
+
+#: bw/widgets/bw_widgets_recent_posts_slider.php:9
+msgid "BW Recent Posts Slider"
+msgstr ""
+
+#: bw/widgets/bw_widgets_recent_posts_slider.php:10
+msgid "BW slider widget"
+msgstr ""
+
+#: bw/widgets/bw_widgets_recent_posts_slider.php:122
+msgid "Category (leave empty for all categories):"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments"
+msgstr ""
+
+#: comments.php:33 comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73
+msgid "Comment"
+msgstr ""
+
+#: comments.php:78 woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: comments.php:79
+msgid "Website"
+msgstr ""
+
+#: comments.php:82
+msgid "Message"
+msgstr ""
+
+#: comments.php:85
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:86
+msgid "Leave a reply"
+msgstr ""
+
+#: page-my-account.php:25 page-my-account.php:37
+#: templates/header/header-v1.php:64 templates/header/settings-icons.php:35
+msgid "Log Out"
+msgstr ""
+
+#: page-my-account.php:30 templates/header/header-v1.php:55
+#: templates/header/settings-icons.php:27
+msgid "My account"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:4
+#: plugins/login-with-ajax/default/widget_out.php:24
+#: woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:5
+#: woocommerce/myaccount/form-login.php:45
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:98
+#: woocommerce/myaccount/form-login.php:99
+msgid "Password"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:9
+#: templates/modal-profile.php:14
+msgid "Log In"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:16
+msgid "Lost your passwordddd?"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:17
+#: woocommerce/myaccount/form-login.php:55
+msgid "Lost your password?"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:25
+msgid "E-mail"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:31
+#: templates/modal-profile.php:15 woocommerce/myaccount/form-login.php:112
+msgid "Register"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:35
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:41
+msgid "Enter username or email"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_out.php:46
+msgid "Get New Password"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search here..."
+msgstr ""
+
+#: searchform.php:5 templates/header/header-v1.php:17
+msgid "Search"
+msgstr ""
+
+#: templates/article-grid.php:16 templates/article-list.php:20
+#: templates/article-midnight-grid.php:11 templates/article-wide.php:11
+msgid "Read more"
+msgstr ""
+
+#: templates/content/content-none.php:16
+msgid "Nothing found"
+msgstr ""
+
+#: templates/content/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/content/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/content/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/content/content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: templates/content/content.php:74
+msgid "Tags:"
+msgstr ""
+
+#: templates/content/content.php:76
+msgid "Share this:"
+msgstr ""
+
+#: templates/header/cart.php:59
+msgid "qty: "
+msgstr ""
+
+#: templates/header/cart.php:76
+msgid "No products in the cart"
+msgstr ""
+
+#: templates/header/cart.php:85
+msgid "Subtotal:"
+msgstr ""
+
+#: templates/header/cart.php:87
+msgid "View cart"
+msgstr ""
+
+#: templates/header/cart.php:88 templates/page-title-cart.php:9
+msgid "Check out"
+msgstr ""
+
+#: templates/header/header-mobile.php:47
+msgid "Please select mobile menu."
+msgstr ""
+
+#: templates/header/header-v1.php:31
+msgid "Login / Join"
+msgstr ""
+
+#: templates/header/header-v3.php:66
+msgid "Please select a menu from Appearance > Menus."
+msgstr ""
+
+#: templates/header/prod-wishlist.php:40
+msgid "View wishlist"
+msgstr ""
+
+#: templates/header/prod-wishlist.php:44
+msgid "No products in the wishlist"
+msgstr ""
+
+#: templates/modal-profile.php:34
+msgid "Or"
+msgstr ""
+
+#: templates/modal-profile.php:38
+msgid "Login with Ajax Plugin is required."
+msgstr ""
+
+#: templates/modal-quick-look.php:17
+msgid "The product was not found"
+msgstr ""
+
+#: templates/page-title-cart.php:5
+msgid "Shopping cart"
+msgstr ""
+
+#: templates/page-title-cart.php:14
+msgid "Order complete"
+msgstr ""
+
+#: templates/page-title-cart.php:23
+msgid "Thanks you for shopping with us, your order is complete!"
+msgstr ""
+
+#: templates/page-title-cart.php:25
+msgid "Continue shopping"
+msgstr ""
+
+#: templates/social-facebook-login.php:8
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: templates/social-google-login.php:8
+msgid "Sign in with Google"
+msgstr ""
+
+#: templates/social-meta-icons.php:20
+msgid "Share with: "
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/content-product-list.php:86
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:16
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+#: woocommerce/single-product/sale-flash.php:19
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:28
+msgid "Sign in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:30
+msgid "Login using social media"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:42
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Login Now"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:73
+msgid "Create a new account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Say welcome to your account!"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:91
+#: woocommerce/myaccount/form-login.php:92
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:121
+msgid "Sign up today and you'll be able to"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+msgid "Save"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:22
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:24
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:24
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:25
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:25
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:28
+msgid "Track"
+msgstr ""
+
+#: woocommerce/product-searchform.php:3
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:4
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:36
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "<span>SKU:</span>"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "<span>Category:</span>"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "<span>Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Midnight"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/Peenapo/portfolio?ref=Peenapo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "E-commerce theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Peenapo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://peenapo.com"
+msgstr ""
